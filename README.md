@@ -7,6 +7,7 @@
 <ul>Upload the selected image to a server (GCP).</ul>
 <ul>Receive prediction results along with confidence percentages.</ul>
 <ul>Display the prediction results.</ul>
+
 # Demo 
 
 https://github.com/suthekshan/Flutter-app-using-GCP/assets/140403183/8c250d22-b084-492d-8614-ddc28b79edc9
